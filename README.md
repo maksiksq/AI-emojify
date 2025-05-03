@@ -1,6 +1,6 @@
 # 2025:
-While yes this was a rather interesting project to develop, I'd ideally not associate myself with AI right now. Also, the site doesn't work anymore because I don't want to pay for the API.
-
+The site doesn't work anymore because I don't want to pay for the API. While yes this was a rather interesting project to develop at the time, I'd rather not associate myself with AI much right now and it was an old thing that I did for fun. I did however gain a bunch of experience from working on this, but it definitely doesn't meet any of my modern standarts to a bit, lol.
+---------------------
 # AI-emojifier
 A website made with pyscript, utilizing OpenAI's GPT3 API.
 This took me a while to make, intially I wanted for it to be a project to be done in a few days but oops it's now 1500+ lines, I had to explore a lot of barely charted grounds with Pyscript and making it work with OpenAI.
